@@ -1,0 +1,71 @@
+body{
+    background-color: #2F3035;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header {
+    
+    height: 118px;
+    text-align: center;
+}
+nav {
+    background-color: rgba(0, 0, 0,0.338);
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: center;    
+}
+nav a{
+    text-decoration:none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white
+}
+main{
+    text-align: center;
+    height: 400px; 
+    padding-top: 80px;
+    padding-left: 240px; 
+    padding-right: 240px;   
+}
+footer{
+    background-color: rgba(0,0,0,0.74);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer p{
+    font-size: 20px;
+    text-align: center;
+    color:rgb(130,186,238)
+}
+.maps{
+    padding-bottom: 150px;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+h1{
+    font-size: 84px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main p a{
+    color:white
+}
+main a{
+    color:white
+}
+
+
+
+

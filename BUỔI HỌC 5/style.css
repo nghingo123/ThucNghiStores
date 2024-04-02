@@ -1,0 +1,12 @@
+img{
+    border-style: double;
+    border-color: rgb(239, 200, 238);
+    border-width: 20px;
+    /* khung */
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+    /* ngoài chó */
+    margin: 10px; 
+    /* cách giữa 2 ảnh */
+}
